@@ -16,7 +16,7 @@ A responsive personal profile website for Seemal Shahid, a Pharmacy Student at t
 
 ```texts
 seemal-profile/
-├── index.html       # Website structure and content
+├── index.html       # fWebsite structure and content
 ├── styles.css       # Responsive design and animations
 ├── script.js        # Theme switcher, menu, and reveal effects
 ├── favicon.svg      # Browser-tab icon
